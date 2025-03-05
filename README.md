@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning **Database Management and System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/monishsinghal](https://github.com/Monish-3d)
+- 👨‍💻 All of my projects are available at [https://github.com/Monish-3d](https://github.com/Monish-3d)
 
 <!-- - 📝 I occasionally write articles on [https://monishsinghal.dev](https://monishsinghal.dev) -->
 
