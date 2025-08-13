@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishsinghal&label=Profile%20views&color=0e75b6&style=flat" alt="monishsinghal" /> </p>
 
-- 🌟 I’m currently exploring **various tech stacks**
+- 🌟 I’m currently exploring **Machine Learning , Deep Learning**
 
-- 📚 I’m currently learning **Database Management and System Design**
+- 📚 I’m currently learning **Computer Graphics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monish-3d](https://github.com/Monish-3d)
 
 <!-- - 📝 I occasionally write articles on [https://monishsinghal.dev](https://monishsinghal.dev) -->
 
-- 💬 Ask me about **C, C++, Python, Git, HTML, MySQL**
+- 💬 Ask me about **C, C++, Python, Git, HTML, MySQL , AI/ML**
 
 <!--- 📧 How to reach me **monishsinghal.dev** -->
 
