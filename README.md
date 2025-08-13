@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishsinghal&label=Profile%20views&color=0e75b6&style=flat" alt="monishsinghal" /> </p>
 
-- 🌟 I’m currently exploring **Machine Learning , Deep Learning**
+- 🌟 I’m highly passionate and interested in **Machine Learning , Deep Learning**
 
-- 📚 I’m currently learning **Computer Graphics**
+<!-- 📚 I’m currently learning **Computer Graphics** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Monish-3d](https://github.com/Monish-3d)
 
