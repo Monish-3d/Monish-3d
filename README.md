@@ -24,6 +24,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+          
 </p>
 
 ### 🤖 AI / ML / GenAI
@@ -33,6 +35,11 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40"/>
+          
+          
 </p>
 
 - Machine Learning, Deep Learning  
@@ -48,6 +55,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
 - FastAPI (API development & AI integration)  
@@ -87,11 +96,15 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monish-3d&show_icons=true" />
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monish-3d&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-3d&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Monish-3d" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Monish-3d&layout=compact&theme=tokyonight" />
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-3d&layout=compact" />
+</p> -->
+
