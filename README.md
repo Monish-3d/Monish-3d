@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monish Singhal</h1>
-<h3 align="center">AI/ML Enthusiast | Backend Developer | Building Intelligent Systems</h3>
+<h3 align="center">AI/ML Enthusiast | Building with LLMs, RAG & Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Monish-3d&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,7 +12,7 @@
 - 🤖 Passionate about **AI/ML, Generative AI & Agentic Systems**  
 - ⚡ Building projects using **RAG, LangChain, LangGraph & FastAPI**  
 - 🧠 Strong in **Data Structures & Problem Solving**  
-- 🎮 Built games using **Unity (C#)**  
+- 🎮 Previously worked on games using **Unity (C#)**  
 - 📌 Currently exploring **LLMs, system design & scalable AI systems**
 
 ---
@@ -29,13 +29,15 @@
 ### 🤖 AI / ML / GenAI
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40"/>
 </p>
 
 - Machine Learning, Deep Learning  
 - RAG (Retrieval-Augmented Generation)  
-- LangChain & LangGraph  
+- LangChain, LangGraph, LangSmith
 - Vector Databases & Embeddings  
 - Prompt Engineering & LLM Workflows  
 
@@ -51,7 +53,8 @@
 - FastAPI (API development & AI integration)  
 - Git & GitHub  
 - MySQL  
-- REST APIs  
+- REST APIs
+- Linux & Docker (basics)
 
 ---
 
@@ -64,8 +67,11 @@
 
 ## 🔗 Projects
 - 🎮 **Odyssey to the Lost Relics** – 2D Unity platformer game  
-- 🏎 **Turbo Tracks** – Kart racing game (in progress)  
-- 🤖 AI Projects – RAG pipelines, chatbots, and LLM-based systems  
+- 🏎 **Turbo Tracks** – Kart racing game
+- 🤖 **AI Systems** – RAG pipelines, chatbots, LLM workflows  
+- 💬 **Conversational AI** – LangGraph-based stateful chat systems  
+- 🌍 **Geo-aware Intelligence** – Combining LLMs with spatial data  
+- 🌱 **ML Models** – Prediction systems with deployment  
 
 👉 Explore all here: https://github.com/Monish-3d  
 
