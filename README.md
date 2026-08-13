@@ -82,7 +82,7 @@ An agentic RAG assistant over technical docs that **grades its own retrievals**.
 
 `LangGraph` · `FastAPI` · `ChromaDB` · `OpenAI` · `Tavily` · `pytest`
 
-### 📝 [Marks-Grader](https://github.com/Monish-3d/Marks-Grader) — Hybrid-RAG Grading Engine
+### 📝 [Marks-Grader](https://github.com/Monish-3d/Teacher-Grading-Companion) — Hybrid-RAG Grading Engine
 <!-- TODO: verify this repo URL -->
 Grades handwritten answer sheets against **textbook evidence**. Fuses **Pinecone** dense search with **BM25** lexical search, de-duped to the top-3 grounding passages, then scores with a multi-signal ensemble (**0.6** LLM rubric / **0.2** cosine / **0.2** keyword) to cut single-model variance. Uses a **multimodal LLM** to do OCR + question segmentation in one call, and ships a difficulty-controlled **MCQ generator** via Pydantic structured output.
 
